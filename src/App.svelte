@@ -24,7 +24,7 @@
         ["canvas", "https://tacomacc.instructure.com/", "study"],
         ["ctclink", "https://csprd.ctclink.us", "study"],
         ["sflix", "https://sflix.fi/", "other"],
-        // ["netlify", "https://app.netlify.com/", "dev"],
+        ["netlify", "https://app.netlify.com/", "dev"],
         // ["wamap", "https://www.wamap.org/", "study"],
         // ["reddit", "https://www.reddit.com/", "other"]
         
