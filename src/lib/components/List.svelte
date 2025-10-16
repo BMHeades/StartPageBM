@@ -15,4 +15,14 @@
         content: ">";
         padding-right: 5px;
     }  
+
+    a{
+        text-decoration: none;
+        color: #c3c9da;
+    }
+
+    a:hover{
+       color: #ffffff; 
+       font-weight: bold;
+    }
 </style>

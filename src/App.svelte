@@ -1,5 +1,5 @@
 <script>
-    import List from "./lib/List.svelte";
+    import List from "./lib/components/List.svelte";
 
     export const prerender = true;
 
@@ -113,10 +113,7 @@
         font-family: "Cascadia Code", sans-serif;
     }
 
-    :global(a){
-        text-decoration: none;
-        color: #dce0eb;
-    }
+    
     .big-padding{
         margin: 15vw;
         margin-top: 110px;
