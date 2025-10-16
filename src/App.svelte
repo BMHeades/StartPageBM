@@ -132,7 +132,7 @@
     .centered{
         margin-left: auto;
         margin-right: auto;
-        width: 60%;  
+        width: 50%;  
         /* background-color: red; */
     }
 
