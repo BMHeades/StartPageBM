@@ -25,7 +25,8 @@
         ["ctclink", "https://csprd.ctclink.us", "study"],
         ["sflix", "https://sflix.fi/", "other"],
         ["netlify", "https://app.netlify.com/", "dev"],
-        // ["wamap", "https://www.wamap.org/", "study"],
+        ["icloud", "https://www.icloud.com/", "other"],
+        ["wamap", "https://www.wamap.org/", "study"]
         // ["reddit", "https://www.reddit.com/", "other"]
         
     ]
