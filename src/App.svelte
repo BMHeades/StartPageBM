@@ -26,7 +26,9 @@
         ["sflix", "https://sflix.fi/", "other"],
         ["netlify", "https://app.netlify.com/", "dev"],
         ["icloud", "https://www.icloud.com/", "other"],
-        ["wamap", "https://www.wamap.org/", "study"]
+        ["wamap", "https://www.wamap.org/", "study"],
+        ["googledocs", "https://docs.google.com/document/u/0/,", "study"],
+        ["gmail", "https://mail.google.com/mail/u/0/", "other"]
         // ["reddit", "https://www.reddit.com/", "other"]
         
     ]

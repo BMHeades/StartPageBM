@@ -5,6 +5,7 @@
 <li>
     <a href="{props.link}">{props.title}</a>
 </li>
+<input bind:value={props.title}/>
 
 <style>
     li{
